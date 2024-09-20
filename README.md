@@ -12,6 +12,7 @@ Para alcançar esse objetivo, foi realizada uma análise abrangente dos dados, q
 - **Pré-processamento**: Variáveis irrelevantes foram removidas e variáveis categóricas foram convertidas em variáveis dummy, representadas como 0 e 1. As escalas das variáveis numéricas foram equalizadas para garantir que o modelo pudesse funcionar adequadamente.
 - **Definição de Target e Features**: Estabelecemos os alvos (sobrevivência) e as características (features) que alimentariam o modelo.
 - **Treinamento do Modelo**: Utilizamos o algoritmo kNN para treinar o modelo com os dados processados, ajustando o hiperparâmetro k para encontrar o valor ideal.
+
   
 Após a implementação, o modelo foi avaliado e alcançou uma acurácia de **79%** na previsão de sobrevivência dos passageiros.
 
