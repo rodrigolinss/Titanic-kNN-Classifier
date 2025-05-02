@@ -13,9 +13,7 @@ Para alcançar esse objetivo, foi realizada uma análise abrangente dos dados, q
 - **Definição de Target e Features**: Estabelecemos os alvos (sobrevivência) e as características (features) que alimentariam o modelo.
 - **Treinamento do Modelo**: Utilizamos o algoritmo kNN para treinar o modelo com os dados processados, ajustando o hiperparâmetro k para encontrar o valor ideal.
 
-  
-Após a implementação, o modelo foi avaliado e alcançou uma acurácia de **79%** na previsão de sobrevivência dos passageiros.
 
 ## Resultados
 
-Após otimizar os hiperparâmetros e identificar o melhor valor de k, o modelo kNN alcançou uma acurácia de **79%** na previsão de sobrevivência dos passageiros do Titanic. Esse resultado ressalta a importância do pré-processamento de dados e da seleção adequada de hiperparâmetros em tarefas de aprendizado de máquina.
+Após otimizar os hiperparâmetros e identificar o melhor valor de k, o modelo kNN alcançou uma acurácia de **79%** na previsão de sobrevivência dos passageiros do Titanic. 
